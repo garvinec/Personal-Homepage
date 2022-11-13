@@ -1,2 +1,2 @@
-Link to my CV:
-https://garvinec.github.io/HTML-CV/
+Link to my Resume:
+https://garvinec.github.io/Resume/
